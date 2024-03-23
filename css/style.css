@@ -1,0 +1,17 @@
+:root{
+	--ms-primary-color-dark: #d1d2d3;
+	--ms-box-dim: calc(500px / 10);
+}
+
+.cf-debug{
+	border: 1px solid red;
+}
+/* general */
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: var(--ms-primary-color-dark);
+}
+
+
+
+
